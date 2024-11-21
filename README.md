@@ -1,8 +1,8 @@
 ##  Hi, I'm Jvictor and welcome to my github
 <div>
   <a href="https://github.com/JoaoVictorCDev">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/> -->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/> 
 </div>
 
 
